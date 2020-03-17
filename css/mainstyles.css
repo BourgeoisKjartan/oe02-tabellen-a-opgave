@@ -1,0 +1,23 @@
+
+table, th, td{
+    border: double 1px black;
+}
+
+
+th.left{
+    text-align: left;
+    width: 55px;
+}
+
+th.center{
+    text-align: center;
+    width: 55px;
+}
+th.right{
+    text-align: right;
+    width: 55px;
+}
+
+tr.grijs:hover {
+    background-color: gray;
+}
